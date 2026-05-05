@@ -88,3 +88,4 @@ public class Book {
         return String.format("[%s] \"%s\" by %s — %s", isbn, title, author, status);
     }
 }
+// Contribution by Ramesh Parajuli - Added validation logic
