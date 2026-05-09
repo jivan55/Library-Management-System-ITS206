@@ -86,3 +86,4 @@ public class BookService {
                 .orElseThrow(() -> new IllegalArgumentException("Book not found: " + isbn));
     }
 }
+// Search methods added by Ramesh Parajuli
