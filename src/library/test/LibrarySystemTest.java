@@ -242,3 +242,4 @@ public class LibrarySystemTest {
         failed++;
     }
 }
+    // T03-T04: Test methods added by Ramesh Parajuli
