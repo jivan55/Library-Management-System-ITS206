@@ -2,6 +2,7 @@ package library.service;
 
 import library.model.WaitlistEntry;
 import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * WaitlistService - FIFO queue management for book waitlists
