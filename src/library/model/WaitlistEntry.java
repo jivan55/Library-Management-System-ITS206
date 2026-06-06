@@ -26,3 +26,4 @@ public class WaitlistEntry {
         return String.format("Member %s waiting for ISBN %s (requested: %s)",
                 memberId, isbn, requestedAt.toLocalDate());
     }
+}
